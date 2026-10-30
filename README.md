@@ -1,1 +1,1 @@
-Technology used - React, NodeJs, ExpressJs, Zod, Tailwind, Material UI 
+Technology used - React, NodeJs, ExpressJs, Zod, Tailwind, Material UI, TypeScript 
